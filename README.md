@@ -10,10 +10,12 @@ I’m a 27-year-old from Mexico with a background in software documentation. Thi
 ## 🛠 Tech Skills
 #### Programming languages:
 [![My Skills](https://skillicons.dev/icons?i=py,js,java)](https://skillicons.dev) 
-#### Technologies, Libraries and Frameworks:
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,django,react,git)](https://skillicons.dev)
+#### Technologies, libraries and frameworks:
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,django,react)](https://skillicons.dev)
 #### Databases:
 [![My Skills](https://skillicons.dev/icons?i=sqlite)](https://skillicons.dev)
+#### Version control:
+[![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
 
 ## ☎️ Contact
 [![Static Badge](https://img.shields.io/badge/Germ%C3%A1n_Anguiano-blue?style=for-the-badge&logo=indeed&logoSize=auto)](https://mx.indeed.com/)
