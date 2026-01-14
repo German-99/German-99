@@ -4,9 +4,8 @@
 I’m a 27-year-old from Mexico with a background in software documentation. This experience gave me a solid understanding of how software systems are designed and structured. I’m currently focused on becoming a full stack developer, building projects and continuously improving my programming skills.
 
 ## 🏫 Education
-Bachelor’s Degree in Multimedia Production Engineering-2022
-
-Pursuing Courses: Professional Competency Development in Engineering-2023
+* Bachelor’s Degree in Multimedia Production Engineering-2022
+* Pursuing Courses: Professional Competency Development in Engineering-2023
 
 ## 🛠 Tech Skills
 #### Programming languages:
