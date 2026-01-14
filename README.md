@@ -5,6 +5,7 @@ I’m a 27-year-old from Mexico with a background in software documentation. Thi
 
 ## 🏫 Education
 Bachelor’s Degree in Multimedia Production Engineering-2022
+
 Pursuing Courses: Professional Competency Development in Engineering-2023
 
 ## 🛠 Tech Skills
