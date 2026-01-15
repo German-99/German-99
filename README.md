@@ -1,4 +1,5 @@
-# Hi, I'm Germán Anguiano 👋 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&pause=1000&color=F7F6F7&width=435&lines=Full+Stack+Developer)](https://git.io/typing-svg)
+# Hi, I'm Germán Anguiano 👋 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&pause=1000&color=F7F6F7&width=435&lines=Full+Stack+Developer)](https://git.io/typing-svg)
 ## 💻 About me
 I’m a 27-year-old from Mexico with a background in software documentation. This experience gave me a solid understanding of how software systems are designed and structured. I’m currently focused on becoming a full stack developer, building projects and continuously improving my programming skills.
 
