@@ -1,20 +1,7 @@
 # Hi, I'm Germán Anguiano 👋 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&pause=1000&color=F7F6F7&width=435&lines=Full+Stack+Developer)](https://git.io/typing-svg)
 
-  <!-- Dark mode -->
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=German-99&layout=compact&hide=C,Objective-C%2B%2B,Less,HLSL,GLSL,CMake,Shell,PHP,Swift,Mathematica,ShaderLab,Blade&theme=transparent&hide_border=true&text_color=ffffff&title_color=ffffff&cache_seconds=1"
-    media="(prefers-color-scheme: dark)"
-  />
-  <!-- Light mode -->
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=German-99&layout=compact&hide=C,Objective-C%2B%2B,Less,HLSL,GLSL,CMake,Shell,PHP,Swift,Mathematica,ShaderLab,Blade&theme=transparent&hide_border=true&text_color=000000&title_color=000000&cache_seconds=1"
-    media="(prefers-color-scheme: light)"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=German-99&layout=compact&hide=C,Objective-C%2B%2B,Less,HLSL,GLSL,CMake,Shell,PHP,Swift,Mathematica,ShaderLab,Blade&theme=transparent&hide_border=true&cache_seconds=1"
-    alt="Most Used Languages"
-  />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=German-99&hide=c,objective-c,mathematica,shaderlab,blade,c%2B%2B,c%23,Objective-C%2B%2B,Less,HLSL,GLSL,CMake,Shell,php,swift&layout=compact&theme=transparent&hide_border=true&text_color=ffffff&title_color=ffffff)
 
 
 
@@ -35,7 +22,6 @@ I’m a 27-year-old from Mexico with a background in software documentation. Thi
 #### Version control:
 [![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=German-99&hide=c,objective-c,mathematica,shaderlab,blade,c%2B%2B,c%23,Objective-C%2B%2B,Less,HLSL,GLSL,CMake,Shell,php,swift&layout=compact&theme=transparent)
 
 ## 🧠 Soft Skills:
 - Proactive.
