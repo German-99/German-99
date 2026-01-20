@@ -1,5 +1,24 @@
 # Hi, I'm Germán Anguiano 👋 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&pause=1000&color=F7F6F7&width=435&lines=Full+Stack+Developer)](https://git.io/typing-svg)
+
+<picture>
+  <!-- Dark mode -->
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=German-99&layout=compact&hide=C,Objective-C%2B%2B,Less,HLSL,GLSL,CMake,Shell,PHP,Swift&theme=transparent&hide_border=true&text_color=ffffff&title_color=ffffff"
+    media="(prefers-color-scheme: dark)"
+  />
+  <!-- Light mode -->
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=German-99&layout=compact&hide=C,Objective-C%2B%2B,Less,HLSL,GLSL,CMake,Shell,PHP,Swift&theme=transparent&hide_border=true&text_color=000000&title_color=000000"
+    media="(prefers-color-scheme: light)"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=German-99&layout=compact&hide=C,Objective-C%2B%2B,Less,HLSL,GLSL,CMake,Shell,PHP,Swift&theme=transparent&hide_border=true"
+    alt="Top Languages"
+  />
+</picture>
+
+
 ## 💻 About me
 I’m a 27-year-old from Mexico with a background in software documentation. This experience gave me a solid understanding of how software systems are designed and structured. I’m currently focused on becoming a full stack developer, building projects and continuously improving my programming skills.
 
