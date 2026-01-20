@@ -2,6 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&pause=1000&color=F7F6F7&width=435&lines=Full+Stack+Developer)](https://git.io/typing-svg)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=German-99&hide=c,objective-c,mathematica,shaderlab,blade,c%2B%2B,c%23,Objective-C%2B%2B,Less,HLSL,GLSL,CMake,Shell,php,swift&layout=compact&theme=transparent&hide_border=true&text_color=ffffff&title_color=ffffff)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=German-99&hide=c,objective-c,mathematica,shaderlab,blade,c%2B%2B,c%23,Objective-C%2B%2B,Less,HLSL,GLSL,CMake,Shell,php,swift&layout=compact&theme=github_dark&hide_border=true&text_color=ffffff&title_color=ffffff)
 
 <picture>
   <!-- Dark mode -->
