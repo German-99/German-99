@@ -1,7 +1,6 @@
 # Hi, I'm Germán Anguiano 👋 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&pause=1000&color=F7F6F7&width=435&lines=Full+Stack+Developer)](https://git.io/typing-svg)
 
-<picture>
   <!-- Dark mode -->
   <source
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=German-99&layout=compact&hide=C,Objective-C%2B%2B,Less,HLSL,GLSL,CMake,Shell,PHP,Swift,Mathematica,ShaderLab,Blade&theme=transparent&hide_border=true&text_color=ffffff&title_color=ffffff&cache_seconds=1"
@@ -16,7 +15,6 @@
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=German-99&layout=compact&hide=C,Objective-C%2B%2B,Less,HLSL,GLSL,CMake,Shell,PHP,Swift,Mathematica,ShaderLab,Blade&theme=transparent&hide_border=true&cache_seconds=1"
     alt="Most Used Languages"
   />
-</picture>
 
 
 
