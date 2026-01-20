@@ -17,7 +17,7 @@ I’m a 27-year-old from Mexico with a background in software documentation. Thi
 #### Version control:
 [![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=German-99&&hide=c,objective-c,mathematica)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=German-99&hide=c,objective-c,mathematica,shaderlab,blade,c%2B%2B,c%23,Objective-C%2B%2B,Less,HLSL,GLSL,CMake,Shell,php,swift&layout=compact)
 
 ## 🧠 Soft Skills:
 - Proactive.
