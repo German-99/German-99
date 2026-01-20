@@ -3,6 +3,24 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=German-99&hide=c,objective-c,mathematica,shaderlab,blade,c%2B%2B,c%23,Objective-C%2B%2B,Less,HLSL,GLSL,CMake,Shell,php,swift&layout=compact&theme=transparent&hide_border=true&text_color=ffffff&title_color=ffffff)
 
+<picture>
+  <!-- Dark mode -->
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=German-99&layout=compact&hide=C,Objective-C%2B%2B,Less,HLSL,GLSL,CMake,Shell,PHP,Swift,Mathematica,ShaderLab,Blade&theme=transparent&hide_border=true&text_color=ffffff&title_color=ffffff&cache_seconds=1"
+    media="(prefers-color-scheme: dark)"
+  />
+  <!-- Light mode -->
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=German-99&layout=compact&hide=C,Objective-C%2B%2B,Less,HLSL,GLSL,CMake,Shell,PHP,Swift,Mathematica,ShaderLab,Blade&theme=transparent&hide_border=true&text_color=000000&title_color=000000&cache_seconds=1"
+    media="(prefers-color-scheme: light)"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=German-99&layout=compact&hide=C,Objective-C%2B%2B,Less,HLSL,GLSL,CMake,Shell,PHP,Swift,Mathematica,ShaderLab,Blade&theme=transparent&hide_border=true&cache_seconds=1"
+    alt="Most Used Languages"
+  />
+</picture>
+
+
 
 
 ## 💻 About me
