@@ -3,6 +3,8 @@
 
 < img src= "https://github-readme-stats-pearl-chi-52.vercel.app/api/top-langs/?username=German-99&hide=c,objective-c,mathematica,shaderlab,blade,c%2B%2B,c%23,Objective-C%2B%2B,Less,HLSL,GLSL,CMake,Shell,php,swift&layout=compact&theme=transparent&hide_border=true&text_color=6B7280&title_color=6B7280" />
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=German-99)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
