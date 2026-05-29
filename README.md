@@ -1,7 +1,7 @@
 # Hi, I'm Germán Anguiano 👋 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&pause=1000&color=6B7280&width=435&lines=Full+-+Stack+Developer)](https://git.io/typing-svg)
 
-![Top Langs](https://github-readme-stats-pearl-chi-52.vercel.app/api/top-langs/?username=German-99&hide=c,objective-c,mathematica,shaderlab,blade,c%2B%2B,c%23,Objective-C%2B%2B,Less,HLSL,GLSL,CMake,Shell,php,swift&layout=compact&theme=transparent&hide_border=true&text_color=6B7280&title_color=6B7280)
+![Top Langs](https://github-readme-stats-ten-omega-mnrg9xz2rd.vercel.app/top-langs/?username=German-99&hide=c,objective-c,mathematica,shaderlab,blade,c%2B%2B,c%23,Objective-C%2B%2B,Less,HLSL,GLSL,CMake,Shell,php,swift&layout=compact&theme=transparent&hide_border=true&text_color=6B7280&title_color=6B7280)
 
 ## 💻 About me
 I’m a 27-year-old from Mexico with a background in software documentation. This experience gave me a solid understanding of how software systems are designed and structured. I’m currently focused on becoming a full stack developer, building projects and continuously improving my programming skills.
