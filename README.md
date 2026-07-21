@@ -3,6 +3,8 @@
 
 ![Top Langs](https://github-readme-stats-two-lovat-53.vercel.app//top-langs/?username=German-99&hide=c,objective-c,mathematica,shaderlab,blade,c%2B%2B,c%23,Objective-C%2B%2B,Less,HLSL,GLSL,CMake,Shell,php,swift&layout=compact&theme=transparent&hide_border=true&text_color=6B7280&title_color=6B7280)
 
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=4&hide_values=true&theme=transparent)](https://github-stats-extended.vercel.app/api/top-langs?username=German-99&layout=compact&langs_count=4&hide_values=true&theme=transparent)
+
 
 ## 💻 About me
 I’m a 27-year-old from Mexico with a background in software documentation. This experience gave me a solid understanding of how software systems are designed and structured. I’m currently focused on becoming a full stack developer, building projects and continuously improving my programming skills.
