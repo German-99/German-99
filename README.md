@@ -3,7 +3,7 @@
 
 ![Top Langs](https://github-stats-extended.vercel.app//top-langs/?username=German-99&hide=c,objective-c,mathematica,shaderlab,blade,c%2B%2B,c%23,Objective-C%2B%2B,Less,HLSL,GLSL,CMake,Shell,php,swift&layout=compact&theme=transparent&hide_border=true&text_color=6B7280&title_color=6B7280)
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=German-99&layout=compact&langs_count=4&hide_values=true&theme=transparent&hide=c,mathematica,shaderlab,blade,c%2B%2B,c%23,Objective-C%2B%2B,Less,HLSL,GLSL,CMake,Shell,php,swift)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=German-99&layout=compact&langs_count=4&hide_values=true&theme=transparent&hide=c,mathematica,shaderlab,blade,c%2B%2B,c%23,Less,HLSL,GLSL,CMake,Shell,php,swift)
 
 
 ## 💻 About me
