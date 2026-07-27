@@ -17,7 +17,7 @@ I’m a 27-year-old from Mexico with a background in software documentation. Thi
 #### Technologies, libraries and frameworks:
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,django,react,spring)](https://skillicons.dev)
 #### Databases:
-[![My Skills](https://skillicons.dev/icons?i=sqlite,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=sqlite,mysql,postgres)](https://skillicons.dev)
 #### Version control:
 [![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
 
