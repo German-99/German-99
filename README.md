@@ -1,7 +1,7 @@
 # Hi, I'm Germán Anguiano 👋 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&pause=1000&color=6B7280&width=435&lines=Full+-+Stack+Developer)](https://git.io/typing-svg)
 
-![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=German-99&layout=compact&langs_count=20&hide_values=true&theme=transparent&hide=c,mathematica,shaderlab,blade,c%2B%2B,c%23,Less,HLSL,GLSL,CMake,Shell,swift,Objective-C%2B%2B,Objective-C)
+![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=German-99&layout=compact&langs_count=20&hide_values=true&theme=transparent&hide=c,mathematica,shaderlab,blade,c%2B%2B,c%23,Less,HLSL,GLSL,CMake,Shell,swift,Objective-C%2B%2B,Objective-C,php)
 
 
 ## 💻 About me
